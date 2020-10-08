@@ -22,7 +22,7 @@
 
 **Link to Deployed Website**
 
-> https://jjainga.github.io/Covid-19-Resource-Page/.
+> https://patceriale.github.io/Covid-19-Resource-Page/.
 
 **Preview**
 
